@@ -51,13 +51,14 @@ This freelance project was built to help a local bricks supplier establish their
 
 ## 📷 Screenshots
 
-Home Page ![Home](<img width="1894" height="913" alt="image" src="https://github.com/user-attachments/assets/f8b4f02c-db32-4df5-a34c-ecc2ac63c433" />) 
+### Home Page 
+![Home](<img width="1894" height="913" alt="image" src="https://github.com/user-attachments/assets/f8b4f02c-db32-4df5-a34c-ecc2ac63c433" />) 
 
-Products Section
+### Products Section
 ![Services](<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/101640c3-3d3e-42d8-a973-ff438793999e" />)
 
-Contact Page and Map
-![Contact](<img width="1913" height="884" alt="image" src="https://github.com/user-attachments/assets/55a0d6dd-78e3-4a02-8ce2-916518a40ea9" />) |
+### Contact Page and Map
+![Contact](<img width="1913" height="884" alt="image" src="https://github.com/user-attachments/assets/55a0d6dd-78e3-4a02-8ce2-916518a40ea9" />) 
 
 
 ---
